@@ -1,4 +1,4 @@
-* Modulo_de_actualizacion_tecnica_y_herramientas_digitales
-* ADF
-* Alva_X_Diman_P_Fernandez_P
-* Paulina Fernandez
+git add * Modulo_de_actualizacion_tecnica_y_herramientas_digitales
+git add * ADF
+git add * Alva_X_Diman_P_Fernandez_P
+git add * Paulina Fernandez
