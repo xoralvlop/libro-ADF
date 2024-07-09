@@ -5,7 +5,7 @@ library("readr")
 provincias <- read_csv(destino)
 install.packages("tidyverse")
 library(tidyverse)
-provincias <- read.csv('C:/Users/xoral/OneDrive/Documentos/Provincias.csv')
+provincias <- read.csv('C:/Users/xoral/OneDrive/Documentos/libro-ADF/Provincias.csv')
 View(provincias)
 provincias <- provincias %>%
    rename(Viviendas_particulares = Viviendas.particulares..2022.)
