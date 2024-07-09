@@ -24,7 +24,7 @@ ggplot(provincias, aes(x = reorder(Nombre.de.provincia, Viviendas_particulares),
             y = "Viviendas particulares") +
        theme_light() 
 
- # Graficamos con barras apiladas la media
+# Graficamos con barras apiladas la media
 ggplot(subset(media_Viviendas_particulares, media_Viviendas_particulares > 0), 
           aes(x = reorder(Nombre.de.provincia, media_Viviendas_particulares), y = media_Viviendas_particulares, fill = media_Viviendas_particulares)) +
        geom_bar(stat = "identity") +
