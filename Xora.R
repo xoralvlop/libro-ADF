@@ -1,6 +1,7 @@
 url<- "https://raw.githubusercontent.com/rominicky/materiales/main/assets/Provincias.csv"
 destino <- "./provincias.csv"
 download.file(url, destino)
+library("readr")
 provincias <- read_csv(destino)
 install.packages("tidyverse")
 library(tidyverse)
