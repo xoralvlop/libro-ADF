@@ -1,0 +1,1556 @@
+                                                        Sadin, Éric
+                                                        La inteligencia artificial o el desafío del siglo:
+                                                        anatomía de un antihumanismo radical
+                                                        1a ed. - Ciudad Autónoma de Buenos Aires: Caja Negra, 2020
+                                                        328 p.; 20 x 13 cm. - (Futuros próximos; 31)
+
+                                                        Traducción de Margarita Martínez
+                                                        ISBN 978-987-1622-86-3
+
+                                                        1. Tecnologías. 2. Inteligencia Artificial. 3. Ensayo Político
+                                                        I. Martínez, Margarita, trad. II. Título
+                                                        CDD 306.46
+
+
+
+                                                        Título original: L’intelligence artificielle ou l’enjeu
+                                                        du siècle. Anatomie d’un antihumanisme radical
+
+                                                        Cet ouvrage a bénéficié du soutien des Programmes
+                                                        d’aide à la publication de l’Institut français.
+                                                        Esta obra cuenta con el apoyo de los Programas
+                                                        de ayuda a la publicación del Institut français.
+
+
+                                                        © Éditions L’Échappée, París, 2018
+                                                        © Éric Sadin
+                                                        © Caja Negra Editora, 2020
+
+
+
+
+                                                        Caja Negra Editora
+Queda prohibida la reproducción total o parcial de
+
+
+
+
+                                                        Buenos Aires / Argentina
+esta obra sin la autorización por escrito del editor.
+
+
+
+
+                                                        info@cajanegraeditora.com.ar
+                                                        www.cajanegraeditora.com.ar
+Hecho el depósito que marca la ley 11.723
+
+
+
+
+                                                        Dirección Editorial:
+                                                        Diego Esteras / Ezequiel Fanego
+                                                        Producción: Malena Rey
+                                                        Asistente Editorial: Sofía Stel
+                                                        Diseño de colección: Consuelo Parga
+                                                        Maquetación: Tomás Fadel
+                                                        Corrección: María Ragonese
+                                             ÉRIC SADIN
+
+
+
+
+LA INTELIGENCIA ARTIFICIAL O EL DESAFÍO DEL SIGLO
+
+     Anatomía de un antihumanismo radical
+
+
+
+
+           Traducción / Margarita Martínez
+ 11   INTRODUCCIÓN. El superyó del siglo XXI
+
+      PARTE 1: EL GIRO CONMINATORIO DE LA TÉCNICA
+ 47   1. Una breve historia de la informática
+      (de un aumento del control al asistente
+      automatizado de la acción humana)
+ 61   2. El devenir antropomórfico
+ 71   3. El Machine Learning: Hacia las tecnologías
+      de la perfección
+ 81   4. De las interfaces ergonómicas
+      a los dispositivos relacionales
+
+      PARTE 2: EL PODER DE ENUNCIAR LA VERDAD
+ 93   1. La emergencia de un nuevo régimen de verdad
+105   2. El estadio incitativo de la verdad: estar lo más
+      cerca posible de los cuerpos y las mentes
+113   3. El estadio imperativo de la verdad:
+      dispositivos para erradicar la duda
+125   4. El estadio prescriptivo de la verdad:
+      Hipócrates bajo el yugo de lo privado
+137   5. El estadio coercitivo de la verdad:
+      un poder fulminante
+
+      PARTE 3: LA MANO INVISIBLE AUTOMATIZADA
+153   1. Un leviatán algorítmico
+165   2. Lo humano marginado
+179   3. El reino de lo comparativo
+191   Bitcoin y blockchain: la última etapa
+      de la sociedad del contrato
+
+      PARTE 4: EL PARAÍSO ARTIFICIAL
+205   1. La necesidad hace la ley, o la liquidación
+      de lo político
+217   2. Administración automatizada de las conductas
+227   3. Teoría del automóvil autónomo
+237   4. El advenimiento de un “poder-kairos”
+247   5. La secuenciación y la desaparición de lo real
+
+      PARTE 5: MANIFIESTO DE LA ACCIÓN
+      EN TIEMPOS DE LO EXPONENCIAL
+261   1. Fracaso de nuestra conciencia
+279   2. Por un conflicto de racionalidades
+287   3. Ahora, hacen falta armas
+301   4. El canto de las divergencias
+
+313   EPÍLOGO
+      Yo, un pulpo escéptico
+INTRODUCCIÓN
+                 EL SUPERYÓ
+               DEL SIGLO XXI
+                                                              - 13 -
+Podría llamarse Audrey, Kaylee, Jasmine o Kimiko. Ten-
+dría aproximadamente cuarenta años, dos hijas cursan-
+do el colegio secundario y estaría divorciada según un
+régimen de tenencia compartida. Viviría en una ciudad
+francesa promedio, una capital del norte de Europa, o en
+Johannesburgo, Chicago, o alguna metrópolis asiática.
+­
+Durante unos diez años habría ocupado un cargo como
+asesora financiera dentro de un grupo bancario interna-
+cional. La reducción de los empleados por la presión de la
+competencia y la racionalización en aumento de los méto-
+dos gerenciales habría llevado al departamento de recursos
+humanos a despedirla pese a sus servicios leales y sus
+excelentes informes de desempeño anuales. Hasta ahí, ha-
+bría gozado de un tren de vida confortable que le hubiera
+permitido, gracias a un préstamo, comprarse un departa-
+mento de dos habitaciones en las afueras, aunque cerca
+del núcleo urbano, privilegiar una alimentación sana, salir
+cada tanto con sus hijas o con sus amigos y regalarse to-
+dos los años algunas semanas de vacaciones junto al mar.
+ É
+ R
+ I
+ C       Pero desde que la despiden, su vida cotidiana se vuelve
+ S       más austera. Envía decenas de currículums, recibe nume-
+ A       rosas cartas alabando sus competencias pero señalando
+ D       que no corresponde con exactitud al perfil que se busca.
+ I       Comienza a sentir dudas sobre su futuro profesional, sobre
+ N
+         su capacidad para asumir cargas. La va invadiendo insidio-
+         samente una depresión latente.
+             Pero sabemos que después de la crudeza del invier-
+         no llega el radiante florecer de la primavera. Un buen
+         día, recibe un mensaje de texto que le indica que tiene
+         una entrevista de trabajo para el día siguiente. A pesar
+         de su nerviosismo, se prepara del mejor modo posible, se
+         preocupa por repasar y luego sintetizar aquellos puntos
+         que juzga primordiales. Desde que se despierta, se pre-
+         para m­ inuciosamente asesorada por su hija mayor, que
+         entiende de estilos en el vestir. Dos mujeres y un hombre
+         la reciben con cordialidad. El puesto tiene que ver con
+- 14 -
+
+
+
+
+         la venta de contratos de seguros de vida a particulares.
+         Se le formulan varias preguntas, principalmente de orden
+         técnico. Quizás a veces muestra dudas o se toma algo de
+         tiempo para responder, pero sus palabras siempre son sen-
+         satas y apropiadas. Un súbito rayo de sol ilumina su ros-
+         tro, revelando una expresión afable. Una vez terminada la
+         conversación, le avisan que próximamente se comunica-
+         rán con ella. Inmediatamente después, discuten su caso.
+         Dos personas consideran que parecía invisibilizada, o que
+         manifestaba una reserva quizás perjudicial. La tercera ar-
+         gumenta que esos rasgos serían molestos si sus palabras
+         hubieran sido inconsecuentes, pero pasó exactamente lo
+         contrario. Esa persona piensa que lo que observaron es un
+         signo de escucha y de apertura a los otros, y que eso es lo
+         que se está pidiendo hoy en día, es decir, saber sostener
+         una relación con los potenciales clientes construida con
+         autenticidad y empatía; además, su trayectoria juega a
+         su favor. Finalmente, se aprueba su postulación. Festeja
+         la feliz noticia en familia, en un restaurante de su barrio
+                                                        INTRODUCCIÓN
+
+
+
+
+que les gustaba frecuentar. Todos celebran con alegría ese
+momento de renovación.
+
+     Seguimos hablando de ella. Tomamos el mismo caso
+de referencia, pero los hechos tienen lugar mucho más
+recientemente, o quizás mañana mismo. Esta vez la mujer
+ya no se molesta en enviar cartas de postulación: su asis-
+tente digital, que la conoce mucho mejor, se ocupa de dia-
+logar con distintos agentes conversacionales y transmiten,
+a demanda, todo tipo de información relativa a su pro-
+tegida. En un momento dado, ve una notificación que le
+sugiere conectarse sin demora a la plataforma P­ ymetrics.
+En la página de acceso, distingue un panel donde hay
+doce juegos en los que debe participar sucesivamente.
+En uno, por ejemplo, hay que tocar la pantalla cuando
+aparece una bola roja sobre la imagen; en otro, hay que
+desplazarse por medio del índice a lo largo de un laberin-
+
+
+
+
+                                                                  - 15 -
+to; en otro hay que clasificar cartas de la baraja según
+reglas que hay que decodificar intuitivamente. Una vez
+cumplidas todas las tareas asignadas, aparece un mensaje:
+“Nuestros ejercicios fueron elaborados en base a estudios
+de la ciencia del comportamiento unánimemente recono-
+cidos. Nos permiten recolectar, en tiempo real, cientos
+de miles de millones de datos que miden objetivamente
+noventa rasgos de su personalidad, tales como la creati-
+vidad, la adaptabilidad, la reactividad, la flexibilidad, los
+niveles de atención, la perseverancia o las capacidades
+de decisión. Estos test, que surgen de nuestra cultura de
+la innovación permanente, hacen posible una selección
+eficaz, predictiva, no sesgada, y perfectamente ajustada.
+Con su puntaje, tenemos el placer de anunciarle que us-
+ted ha sido seleccionada para pasar al siguiente nivel de
+la ­evaluación”.
+     Ve la imagen digital de un pingüino que le sonríe
+de oreja a oreja y le declara, con una voz cuasi infantil,
+que se llama Recrutello. El pingüino le pregunta por sus
+ É
+ R
+ I
+ C       g­ ustos, sus hobbies, sus aspiraciones, hasta algunos de
+ S        sus sueños más íntimos. Le pide que deletree rápidamente
+ A        y sin confundirse todas las letras del alfabeto, que cante
+ D        una melodía de su elección, y finalmente que use todo su
+ I        poder de seducción para incitarlo a un encuentro inme-
+ N
+          diato usando las palabras justas y dirigiendo su mirada
+          más cautivante al visor de su smartphone. El intercambio
+          se interrumpe de repente y aparece una leyenda donde se
+          le agradece su disponibilidad. Se cierra de modo entusias-
+          ta: “Buscamos la más perfecta concordancia en todo”. Se
+          siente muy desconcertada: nunca tuvo que adaptarse a se-
+          mejante formato. Algunos instantes más tarde, le envían
+          un informe de la evaluación: “Luego de su presentación
+          en esta conversación aumentada, lamentamos informarle
+          que, pese al alto grado de compromiso y sus innegables
+          capacidades proactivas, no quedó seleccionada porque no
+          la consideramos compatible con Recrutello. Su sensibili-
+- 16 -
+
+
+
+
+          dad demasiado acentuada le impediría responder con la
+          determinación requerida a los objetivos operacionales que
+          se definen día a día en los war rooms matinales, y le impo-
+          sibilitaría integrarse plenamente a la task force que opera
+          en el lugar. Le aconsejamos trabajar sobre la neutralización
+          de sus inclinaciones expresivas”. Una lágrima de tristeza
+          resbala de sus ojos mientras recibe una propuesta de una
+          empresa start-up que le ofrece un mes de abono gratuito
+          para utilizar un coach virtual especializado en mejorar las
+          competencias emocionales.
+
+
+         LA EMERGENCIA DE UNA ALETHEIA ALGORÍTMICA
+
+         Hay un fenómeno destinado a revolucionar de un extremo
+         a otro nuestras existencias. Se cristalizó hace muy poco
+         tiempo, apenas una década. Sin embargo, nos cuesta apre-
+         sarlo del todo, como si estuviéramos todavía pasmados
+         por su carácter repentino y su potencia de deflagración.
+                                                           INTRODUCCIÓN
+
+
+
+
+C­ omentamos en todo momento algunas de sus consecuen-
+ cias posibles, generalmente las que movilizan la parte más
+ emotiva de nosotros mismos, pero sin buscar identificar
+ nunca su causa, como deberíamos hacerlo, para captarla
+ en sus encadenamientos sucesivos dentro de una perspec-
+ tiva global. Podemos, sin embargo, identificar su origen:
+ se trata de un cambio de estatuto de las tecnologías digitales.
+ Más exactamente, del cambio de estatuto de una de sus
+ ramificaciones, la más sofisticada de todas, que se ocupa
+ de una función que hasta ahora nunca habíamos pensado
+ atribuirle, y no solamente porque no formaba parte de
+ nuestro imaginario, sino porque existían límites formales
+ para hacerlo. De ahora en adelante ciertos sistemas com-
+ putacionales están dotados –nosotros los hemos dotado–
+ de una singular y perturbadora vocación: la de enunciar la
+ verdad, al igual que los métodos de evaluación a los que
+ se veía confrontada esta mujer con vistas a una eventual
+
+
+
+
+                                                                     - 17 -
+ contratación, y que serían capaces, de acuerdo con una
+ multiplicidad de criterios, de determinar si su perfil co-
+ rresponde o no al puesto buscado. O como un asistente
+ digital personal que estaría calificado para aconsejar un
+ régimen alimentario que se supone más adaptado, o como
+ un sistema de diagnóstico dermatológico concebido para
+ detectar un tumor de piel, o como un procedimiento de
+ vigilancia policial destinado a prevenir la inminencia de
+ un peligro en una zona ya identificada.
+
+    De ahora en adelante, la carga conferida a lo digital
+no consiste solamente en permitir el almacenamiento, la
+indexación y la manipulación más sencilla de corpus ci-
+frados, textuales, sonoros o icónicos con vistas a diferen-
+tes finalidades, sino en divulgar de modo automatizado
+el tenor de situaciones de toda índole. Lo digital se erige
+como una potencia aletheica, una instancia consagrada a
+exponer la aletheia, la verdad, en el sentido en que la
+definía la filosofía griega antigua, que la entendía como
+ É
+ R
+ I
+ C       develamiento, como la manifestación de la realidad de los
+ S       fenómenos más allá de sus apariencias. Lo digital se erige
+ A       como un órgano habilitado para peritar lo real de modo
+ D       más fiable que nosotros mismos, así como para revelarnos
+ I       dimensiones hasta ahora ocultas a nuestra conciencia. Y
+ N
+         en esto asume la forma de un tecno-logos, una entidad
+         artefactual dotada del poder de enunciar, siempre con más
+         precisión y sin demora alguna, el supuesto estado de las
+         cosas. Podríamos afirmar que entramos en el estadio consu-
+         mado de la tecnología, que ya no designa un discurso que
+         versa sobre la técnica sino un término que se haría acto
+         por su facultad de proferir el verbo, el logos, pero con
+         la única finalidad de garantizar lo verdadero. Este poder
+         constituye la primera característica de lo que se llama “in-
+         teligencia artificial” y determina, en consecuencia, todas
+         las funciones que le son asignadas.
+              El otorgamiento de esta facultad no proviene de una
+- 18 -
+
+
+
+
+         conjunción azarosa o de una serie de acontecimientos no
+         premeditada. Por el contrario, fue condicionado por un
+         factor determinante: una amplia parte de las ciencias al-
+         gorítmicas toma de ahora en adelante un camino resuelta-
+         mente antropomórfico que busca atribuir a los procesadores
+         cualidades humanas, prioritariamente aquellas de poder
+         evaluar situaciones y sacar conclusiones de ellas. Ningún
+         artefacto, en el transcurso de la historia, fue resultado de
+         una voluntad de reproducir de modo idéntico nuestras apti-
+         tudes, sino que más bien lo que se trató de hacer con ellos
+         fue paliar nuestros límites corporales con la finalidad de
+         elaborar dispositivos dotados de una mayor potencia física
+         que la nuestra. Ninguno procedía de un calco escrupulosa-
+         mente mimético de nosotros mismos sino de una dimen-
+         sión protésica cuya intención era asumir las insuficiencias
+         de nuestra condición, mientras que algunos otros también
+         se basaron en referentes naturales o en principios teóri-
+         cos. Lo que hoy hace específicas a un número creciente de
+         arquitecturas computacionales es que sus modelos son el
+                                                        INTRODUCCIÓN
+
+
+
+
+cerebro ­humano, que suponemos que encarna una forma
+organizacional y sistémica perfecta del tratamiento de la
+información y de la aprehensión de lo real.
+
+     La estructura del cerebro, hecha de neuronas, de si-
+napsis, de conductores eléctricos, de redes de transmisión,
+se convierte en el parangón a duplicar. Gran cantidad de
+investigaciones en desarrollo dentro de laboratorios pú-
+blicos o privados se inscriben en esta perspectiva, y e­ stas
+investigaciones se acompañan de un aparato retórico que
+pretende extraer de todo eso un prestigio simbólico. Ve-
+mos cómo se constituye un léxico completo que toma pres-
+tados elementos del registro de las ciencias cognitivas sin
+vergüenza alguna ni preocupación por la precisión termi-
+nológica. Se evocan chips “sinápticos”, “neuromórficos”,
+“redes de neuronas artificiales”, “procesadores neurona-
+les”. Lo que de ahora en más se presenta como el nue-
+
+
+
+
+                                                                  - 19 -
+vo grial tecnocientífico a alcanzar es lograr asignar a los
+sistemas una contextura supuestamente análoga a la de
+nuestro cerebro.
+     A tal punto esto es así que entramos en la era antro-
+pomórfica de la técnica. Pero no se trata de un antropo-
+morfismo literal y estricto porque está marcado por una
+lógica propia, ya que se ve afectado por tres característi-
+cas. Primero, es un antropomorfismo aumentado, extremo
+o radical, que busca modelarse sobre nuestras capacidades
+cognitivas, ciertamente, pero presentándolas como palan-
+cas a fin de elaborar mecanismos que, inspirados en nues-
+tros esquemas cerebrales, están destinados a ser más rá-
+pidos, eficaces, y fiables que aquellos que nos constituyen
+(al mismo tiempo que son tendencialmente inalterables).
+Luego, se trata de un antropomorfismo parcelario: no tie-
+ne como vocación abarcar la totalidad de nuestras facultades
+cognitivas y tratar, como nuestras mentes, una infinidad
+de asuntos, sino que está solamente destinado, en el es-
+tado actual de las cosas, a garantizar tareas ­específicas.
+ É
+ R
+ I
+ C       Por último, es un antropomorfismo emprendedor, que no
+ S       se conforma con estar dotado solamente de disposicio-
+ A       nes interpretativas, sino que está considerado como un
+ D       poder capaz de emprender acciones de modo automatiza-
+ I       do y en función de conclusiones delimitadas. Este triple
+ N
+         devenir antropomórfico de la técnica pretende ser explo-
+         rado, precisamente, a fin de conducir a largo plazo a una
+         gestión sin errores de la cuasi totalidad de los sectores de
+         la sociedad.
+
+
+         UN PODER CONMINATORIO
+
+         La inteligencia artificial no constituye una innovación
+         más entre otras, sino que representa más bien un “princi-
+         pio técnico universal” basado sobre una misma sistémica:
+         el análisis robotizado –generalmente operado en tiempo
+- 20 -
+
+
+
+
+         real– de situaciones de diverso orden, la formulación ins-
+         tantánea de ecuaciones, supuestamente las más acordes, y
+         en general con vistas a emprender las acciones adecuadas
+         correspondientes, sea por medio de intervenciones huma-
+         nas o de modo autónomo por los sistemas mismos. Se
+         supone que esta lógica se aplicará a largo plazo a todos
+         los segmentos de la vida individual y colectiva en el marco
+         de nuestras relaciones con nuestros cuerpos, con los ­demás,
+         con el hábitat, o bien en el marco de la organización de la
+         ciudad, de las redes de transporte, de los espacios profe-
+         sionales de la salud, de las actividades bancarias, de las fi-
+         nanzas, de la justicia, de las prácticas militares, del futuro
+         funcionamiento de los vehículos llamados “autónomos”.
+         En síntesis, la lista de las esferas involucradas o destina-
+         das a estarlo sería demasiado larga; en verdad es virtual-
+         mente infinita. Porque, si lo vemos de cerca, asistimos a la
+         emergencia de una tecnología de lo integral.
+              Por su sofisticación creciente, los dispositivos a­ letheicos
+         están llamados a imponer su propia ley o­rientando los
+                                                      INTRODUCCIÓN
+
+
+
+
+asuntos humanos desde lo alto de su autoridad. Y esto no
+ocurrirá de modo homogéneo sino en diversos grados, que
+pueden ir desde un nivel incitativo que opera en una apli-
+cación de coaching deportivo sugiriendo tal o cual com-
+plemento alimentario, por ejemplo, hasta un nivel pres-
+criptivo en el caso de la evaluación de un candidato para
+otorgarle o no un préstamo bancario, o en un nivel coer-
+citivo, particularmente en el campo del trabajo, donde ya
+vemos sistemas que deciden gestos y además los ejecutan.
+De ahora en más hay una tecnología que reviste un “poder
+conminatorio” mientras el libre ejercicio de nuestra facul-
+tad de juicio y de acción se ve sustituido por protocolos
+destinados a provocar inflexiones en cada uno de nuestros
+actos o cada impulso de lo real con vistas a insuflarles,
+casi de “soplarles”, la trayectoria correcta a adoptar. La
+humanidad se está dotando a grandes pasos de un órgano
+de prescindencia de ella misma, de su derecho a decidir
+
+
+
+
+                                                                - 21 -
+con plena conciencia y responsabilidad las elecciones que
+la involucran. Toma forma un estatuto antropológico y on-
+tológico inédito que ve cómo la figura humana se somete
+a las ecuaciones de sus propios artefactos con el objetivo
+prioritario de responder a intereses privados y de instau-
+rar una organización de la sociedad en función de criterios
+principalmente utilitaristas.
+
+
+EL TIEMPO DE LO EXPONENCIAL
+
+La inteligencia artificial es la vanguardia de punta de lo
+que se llama “tecnologías de lo exponencial”, cuya ela-
+boración y ubicación en el mercado vemos realizarse a un
+ritmo cada vez más sostenido. Hoy esta vanguardia se ve
+favorecida por dos fenómenos concomitantes. El primero
+tiene su origen en el movimiento de informatización de la
+sociedad iniciado a inicios de los años sesenta, que hizo
+germinar progresivamente la idea de que las máquinas de
+ É
+ R
+ I
+ C       cálculo están dotadas de una eficacia que debería induda-
+ S       blemente beneficiar la actividad de todos los sectores, en
+ A       la medida en que facilitan la existencia de los individuos.
+ D       Estos modos de aprehensión, que muy pronto se convirtie-
+ I       ron en una doxa, llevaron a la generalización de la noción
+ N
+         acrítica de “revolución digital” y, como corolario, al movi-
+         miento hoy en curso de digitalización integral del mundo.
+         Los actores políticos y económicos vieron en ese movi-
+         miento la oportunidad histórica de operar una intensifi-
+         cación continua de los ciclos de rotación del capital entre
+         empresas, entre empresas y personas, y entre las personas
+         mismas a través de la economía de los datos y las plata-
+         formas, y mediante la optimización del funcionamiento a
+         largo plazo de la casi totalidad de las entidades privadas
+         o públicas. Vemos este proceso plasmado en la emblemá-
+         tica expresión “transformación digital” entendida como
+         el objetivo a alcanzar para ir hacia una administración
+- 22 -
+
+
+
+
+         indefinidamente maximizada de las cosas.
+             El segundo factor que favorece esta extensión incesante
+         se origina en el hecho de que la producción industrial
+         actual no respeta una serie de fases que hasta hace poco
+         tiempo estaban marcadas por diversas formas de indeter-
+         minación dentro de las búsquedas, o por la aceptación
+         del fracaso como riesgo consustancial a la elaboración de
+         cualquier prototipo, o incluso por la exigencia de tener
+         que proceder a múltiples y minuciosos testeos de calidad –que
+         vemos que cada vez hacen más falta–. Hoy, el ritmo marca
+         la casi ausencia de lapso temporal entre la concepción y la
+         comercialización de los productos mismos. La presión de
+         la competencia y la primacía del retorno inmediato des-
+         pués de cualquier inversión prohíben toda latencia, toda
+         evaluación concertada sobre el valor y la pertinencia de
+         los productos. Las unidades de investigación y desarrollo
+         deben probar sin demora y sin pausa que representan el
+         acceso a nuevos beneficios. Estamos en el momento de
+         los “ciclos de innovación”, que siempre están más cerca
+                                                         INTRODUCCIÓN
+
+
+
+
+unos de otros en la medida en que favorezcan una dinámica
+de entusiasmo permanente y que estén ­investidos por
+los dogmas conjugados del crecimiento y del aumento del
+supuesto confort de las personas (que, por el bien de la
+sociedad, no deben nunca dejar de crecer).
+
+    De ahora en más, las tecnologías digitales dictan el
+tempo de nuestras existencias y dan ritmo a la época.
+Este frenesí se encuentra apoyado, casi normalizado, en
+las nociones de “tecnologías de ruptura” y de “disrup-
+ción”, conforme a la neolengua iconoclasta de “la inno-
+vación” contemporánea. Se constituyó un vocabulario de
+cariz bélico, como si la verdad de nuestra relación con el
+tiempo consistiera, en el marco de una forma de violencia,
+en aliarse con su “curso natural” que, como sabemos, está
+constituido por flujos heracliteanos ininterrumpidos. La
+cadencia de las evoluciones técnicas haría cuerpo enton-
+
+
+
+
+                                                                   - 23 -
+ces, milagrosamente, con las fluctuaciones cambiantes de
+la vida, debiendo imponerse de facto a nuestros relojes
+internos y a nuestras psiquis e induciendo como corolario
+una adaptabilidad permanente. Las computadoras cuánti-
+cas no harán sino consolidar e institucionalizar esta aspi-
+ración a confundir la sociedad con la physis eruptiva del
+mundo. Se trabaja sobre eso principalmente con ayuda de
+fondos públicos. Este avance exponencial, que deja entrever
+un horizonte teleológico, se vuelve a enlazar con la ideología
+del progreso que había sido tan aclamada desde el final de
+los “Treinta gloriosos” y que vuelve a encarnar la perspec-
+tiva de una suerte de consumación de la Historia, según
+la visión escatológica occidental del advenimiento de un
+régimen acabado de perfección.
+    In fine, la medida indefinidamente precipitada de los
+“ciclos de innovación” participa de una naturalización del
+desarrollo técnico-económico en curso que llega al punto
+de asimilarlo con un “tsunami”, es decir, con un fenóme-
+no casi imposible de contener por el hecho de una fuerza
+ É
+ R
+ I
+ C       asimétrica, lo cual procede de una analogía inapropiada
+ S       que contribuye a imponer la doxa de lo ineluctable. Ahora
+ A       bien, lo que es propio de los artefactos es que no se de-
+ D       rivan de ningún orden natural, sino que son el producto
+ I       de la acción humana y que interfieren en los asuntos hu-
+ N
+         manos. Usar el término “exponencial” les permite a los
+         nuevos “revolucionarios” de nuestro tiempo, a los super-
+         héroes emprendedores y otros start-uppers visionarios,
+         que habrían entendido todo según la verdad de la época,
+         y que incluso la personificarían, banalizar la idea según la
+         cual las evoluciones técnicas, la inteligencia artificial en
+         particular, se inscribirían en una trayectoria inevitable y
+         virtuosa de las cosas en la que habría que entrar por inte-
+         rés de todos. Los demás, los incrédulos, los críticos y todos
+         aquellos que aspiren a modos de existencia no sistemáti-
+         camente adosados a protocolos de guía automatizada, pa-
+         sarán a ser cascarrabias, retrógrados que no entendieron
+- 24 -
+
+
+
+
+         nada del carácter excepcional y mesiánico de nuestra épo-
+         ca, en la medida en que le corresponde a ella, según dicta
+         el gran libro de la historia, erradicar todas las escorias de
+         lo real. En los hechos, lo que caracteriza lo exponencial es
+         que vuelve marginal (y aniquila a largo plazo) el tiempo
+         humano de la comprensión y de la reflexión, privando a
+         los individuos y a las sociedades de su derecho a evaluar
+         los fenómenos y de dar testimonio (o no) de su consen-
+         timiento, en síntesis, de su derecho de decidir libremente
+         el curso de sus destinos.
+
+
+         EL TERNERO DE ORO DE NUESTRO TIEMPO
+
+         La inteligencia artificial representa, desde inicios de los
+         años 2010, el desafío económico que se juzga más de-
+         cisivo y en el cual conviene invertir sin esperar y con
+         determinación. Además de las empresas, también los Es-
+         tados movilizan todos los medios necesarios para situarse
+                                                                   INTRODUCCIÓN
+
+
+
+
+ en la ­vanguardia: de ahora en más, cada uno hace de ese
+ objetivo una gran causa nacional. En las primeras filas
+ ­encontramos a los Estados Unidos, que elaboran planes
+  estratégicos de envergadura que lleva adelante espe-
+  cialmente la darpa (Defense Advanced Research Projects
+­Agency), la nsa (National Security Agency), la Secretaría
+ de Defensa, y una miríada de universidades e institutos de
+ investigación que se benefician de subvenciones federa-
+ les. A instancias de su posición hegemónica en Internet
+ desde mediados de los años noventa, los Estados Unidos
+ pretende sostener su liderazgo en el campo de las tec-
+ nologías llamadas “cognitivas”. Sin embargo, hay muchas
+ naciones que no se quieren quedar en el segundo puesto
+ y manifiestan su voluntad de comprometerse en cuerpo y
+ alma en esta feroz competencia planetaria. Primero China,
+ que tiene la ambición de “subirse a lo alto del podio” en
+ 2030 gracias a programas planificados con mucha preci-
+
+
+
+
+                                                                             - 25 -
+ sión: “Esta es la hoja de ruta del gobierno chino: ‘Primero,
+ seguir el ritmo de las nuevas tecnologías y de las aplica-
+ ciones de inteligencia artificial de acá a 2020; después,
+ hacer avances capitales de aquí a 2025 y, finalmente, con-
+ vertirse en el líder mundial indiscutible en el transcurso
+ de los cinco años siguientes’”.1
+      Canadá pretende erigirse como un “polo mundial de
+ la inteligencia artificial” y sostiene empresas y laborato-
+ rios con ayuda de generosos fondos públicos. Rusia, casi
+ inexistente desde hace décadas en la industria de la elec-
+ trónica, cuenta con convertirse en un actor central en ese
+ campo que, además, reviste ante sus ojos alcance geopo-
+ lítico. Vladimir Putin declaró que “la nación que se con-
+ vierta en líder de este sector será la que domine el mun-
+ do”, y que no quiere que “cualquiera goce de una posición
+
+
+1. Sarah Zhang, “La Chine, laboratoire du monde”, The Atlantic, 16 de
+febrero de 2017, en Courrier international, nº 1395/96/97, 27 de julio al
+16 de agosto de 2017.
+ É
+ R
+ I
+ C       monopólica”. La lista de los países que desean implicarse
+ S       en esta prometedora epopeya sería larga de declinar. En-
+ A       tre los más activos, figuran particularmente Israel, Japón,
+ D       Corea del Sur… Los Emiratos Árabes Unidos llegaron al
+ I       punto de crear un ministerio de la inteligencia artificial:
+ N
+         “La inteligencia artificial será la próxima gran revolución.
+         Queremos ser uno de los países mejor preparados para este
+         objetivo”.2 Por su lado, Francia se vanagloria de poseer
+         todos los atributos necesarios con vistas a devenir un ac-
+         tor de primer plano: una Grande École de matemáticas,
+         “incubadoras de start-up”, un sistema ya testeado de par-
+         tenariado público/privado.3 La región de Ile-de-­    France,
+         entre otros territorios, identificó este sector como un
+         eje fundamental de desarrollo en materia de innovación,
+         y pretende convertirse en “la región europea líder en la
+         materia”.4 Emmanuel Macron, ferviente evangelizador de
+         la digitalización integral de la sociedad, a la que encara
+- 26 -
+
+
+
+
+         como el único horizonte político y económico radiante de
+         nuestro tiempo, pretende, con ayuda de fondos públicos
+         masivos, hacer del país un “hub mundial de la ia” y “atraer
+         a los mejores investigadores del exterior”.
+
+             Este estado narcótico frente a la extensión de las
+         perspectivas anunciadas alienta una profusión de discursos
+         de todo orden. Probablemente nunca hayamos ­escuchado
+         tantos disparates a propósito de un fenómeno tan determi-
+         nante. Es la gran narcosis de la época: nos damos c­ uenta
+
+         2. Pieter Van Nuffel, “Les Émirats arabes unis créent un ministère de
+         l’Intelligence artificielle”, Le Vif, 20 de octubre de 2017.
+         3. Ver el informe “France ia” encargado por el gobierno de Manuel Valls en
+         2016 y presidido por Christophe Sirugue.
+         4. “Se inaugurará un complejo especial de 60.000 metros cuadrados hacia
+         2020 en el campus de Paris-Saclay, que movilizará un presupuesto de 100
+         millones de euros. Según su presidente, Valérie Pécresse, ‘el único criterio
+         que va a contar es el siguiente: la creación de empleos’”. Vincent Fagot,
+         “Au CES de Las Vegas, Valérie Pécresse corteja a las start-up extranjeras”,
+         Le Monde, 11 de enero de 2018.
+                                                                    INTRODUCCIÓN
+
+
+
+
+de que en ese plano se juegan evoluciones que serán de-
+cisivas, pero en lugar de trabajar, como deberíamos, para
+desbrozar la complejidad de los dilemas en juego a fin
+de dotarnos de los instrumentos correctos de compren-
+sión y acción, dejamos que se expresen personas que se
+erigen como expertas sin cuestionarlas. La mayor parte
+de esas personas está movida por sus propios intereses y
+pretenden iluminar a la sociedad con sus luces mientras
+prodigan, contra una retribución contante y sonante, sus
+preciosos consejos a los responsables políticos y económi-
+cos.5 Esta aproximación generalizada contribuye todavía
+más a alimentar gran cantidad de elucubraciones, a imagen y
+semejanza de aquella formulada por el astrofísico Stephen
+Hawking que, en 2014, había afirmado, junto con muchos
+otros científicos, que la inteligencia artificial estaba
+consagrada a largo plazo a erradicar la raza humana, cosa
+que decía inspirándose en un imaginario de la catástrofe
+
+
+
+
+                                                                              - 27 -
+inapropiado que fantaseaba con una rebelión futura de las
+máquinas. O el empresario Elon Musk, que en 2017 redac-
+tó, junto con ciento quince industriales e ingenieros, una
+carta abierta dirigida a las Naciones Unidas adelantando
+que “la carrera hacia la superioridad en ia de los Estados
+Unidos podría estar en el origen de una tercera guerra
+mundial”. Estas palabras ineptas que provienen de perso-
+nas que, en su mayor parte, trabajan (por el ejercicio de
+
+5. Ver el valiente artículo de la investigadora en informática Huyen
+Nguyen: “Tengo que confesar algo, me siento como una impostora. Cada
+día recibo un mail de un amigo, de un amigo de un amigo, de una empresa
+cualquiera que me piden mi opinión sobre la inteligencia artificial […] Me
+preguntan: ‘¿nos daría algún consejo en especial sobre nuestros productos
+de ia?’… Hablan de la inteligencia artificial como si fuera la fuente de
+la juventud en la cual todo el mundo quisiera bañarse. Y si uno no lo
+hace, se volverá viejo y terminará solo y abandonado. Piensan que yo
+sé cómo llegar hasta esa fuente […] Quizás un día las personas tomen
+conciencia de que muchos expertos en ia no son sino impostores. Quizás
+un día los estudiantes entiendan que harían mejor si estudiaran cosas que
+verdaderamente importan”. Huyen Nguyen, “Confessions d’une soi-disant
+experte en ia”, Le Monde, 30 de agosto de 2017.
+ É
+ R
+ I
+ C       sus competencias o inyectando fondos poderosos) en la
+ S       extensión de esas mismas tecnologías manifiestan una es-
+ A       quizofrenia patente, así como cierta mala conciencia que,
+ D       cada tanto, no parecen poder contener.
+ I           Por su lado, Mark Zuckerberg, el fundador de ­Facebook,
+ N
+         no comparte este alarmismo, ya que ve, por el contrario,
+         la formidable oportunidad de “construir comunidades”
+         que conduzcan siempre hacia el conocimiento más pro-
+         fundo de las aspiraciones de los individuos y de sus com-
+         portamientos, y ofreciendo a cambio una administración
+         amable y continua de la vida gracias a las virtudes mila-
+         grosas de la inteligencia artificial.6 Más allá de su falta
+         de argumentación y de su dimensión sensacionalista, lo
+         que caracteriza a todas estas declaraciones es que alegan que
+         se está esbozando un nuevo horizonte económico, que se
+         está anunciando una infinidad de avances ventajosos, es-
+         pecialmente en el campo de la medicina, y que no habría
+- 28 -
+
+
+
+
+         que frenarlos “por el bien de la humanidad”, a condición
+         de saber “corregir sus eventuales fallas” y poder “prevenir
+         los probables peligros”, conforme a la ecuación social-li-
+         beral habitual. La panacea consiste en introducir una “do-
+         sis de ética” y de “regulación”, como si fuera una inyec-
+         ción que habría que administrar cada tanto para calmar
+         a una criatura sumamente hermosa pero con veleidades
+         potencialmente amenazantes.
+
+
+         LA ESTRECHEZ “ÉTICA”
+
+         Cuando se quiere hacer gala de que se está fiscalizando a
+         las tecnologías digitales, se invoca a la “ética”, como si
+         blandir ese estandarte pudiera representar la defensa supre-
+         ma que nos puede proteger contra sus desvíos ­principales.
+
+
+         6. Ver Nicolas Lellouche, “Elon Musk et Mark Zuckerberg s’opposent sur
+         l’intelligence artificielle”, Le Figaro, 26 de julio de 2017.
+                                                                         INTRODUCCIÓN
+
+
+
+
+En verdad esta es una de las grandes confusiones de la época.
+¿Cómo deberíamos entender la ética? Probablemente a partir
+de un umbral mínimo: el respeto incondicionado de la inte-
+gridad y de la dignidad humana; el hecho de poder utilizar
+sin obstáculos la propia autonomía de juicio, de decidir
+libremente y en plena conciencia de los propios actos, de go-
+zar de partes de uno mismo que estén al abrigo de la mirada
+de otro, o incluso de no verse continuamente reducido a un
+estricto objeto mercantil. Pero generalmente, cuando se invo-
+ca la ética, se alude a una noción confusa, a un contenedor
+vago, a referentes abstractos que varían según los tropismos
+de cada cual. Más precisamente, se ­impuso una forma de ética
+totalmente particular contenida en una única y seca aspira-
+ción a una “libertad negativa”, según los términos del filó-
+sofo político Isaiah Berlin, entendida como una libertad de-
+fensiva que únicamente ­protege el derecho de los ciudadanos
+frente a las pretensiones potencialmente abusivas del poder.7
+
+
+
+
+                                                                                   - 29 -
+     Nos consideramos libres, según la opinión generaliza-
+da, en la medida en que nadie contraría nuestra acción;
+dentro de esa perspectiva, la libertad política remite al es-
+pacio en el seno del cual cada uno puede actuar sin que lo
+impidan fuerzas coercitivas. Montesquieu había explicitado
+y defendido ese principio haciendo de esta oposición en-
+tre el individuo y las autoridades el “centro del problema
+político”, según Pierre Manent, y había fijado en ese cami-
+no “lo que se podría denominar el lenguaje definitivo del
+liberalismo”.8 Se cristalizó todo un glosario supuestamen-
+te “crítico” de lo digital en función de esta desconfianza
+fundamental y que nunca cede respecto de los gobernan-
+tes. Entendemos mejor por qué, desde que pretendemos
+preocuparnos por la ética, volvemos a las cuestiones, que
+
+7. Ver Isaiah Berlin, Four Essays on Liberty, Oxford, Oxford University
+Press, y En toutes libertés, entrevista de Ramin Jahanbegloo, París, Le
+Félin, 2006.
+8. Pierre Manent, Histoire intellectuelle du libéralisme, París, Pluriel, 1998,
+p. 123.
+ É
+ R
+ I
+ C       aparecen ­incesantemente, relativas a la protección de los
+ S       datos personales y a la “defensa de la vida privada”. Estas
+ A       posiciones, que se limitan solamente a la preocupación por
+ D       preservar el interés particular, y que limitan con cierta for-
+ I       ma de la buena conciencia exhibida a bajo costo, poseen la
+ N
+         importante falla de ocultar otros dilemas al menos igual de
+         decisivos. Porque lo esencial de lo que está en juego escapa
+         a lo que entendemos según esta concepción, a saber, los
+         modos de vida individuales y colectivos que están apare-
+         ciendo en la actualidad y que están llamados a orientarse
+         cada vez más por sistemas que nos quitan nuestra facultad
+         de juicio y que no se encuentran nunca sometidos al pris-
+         ma ético, mientras que deberían estarlo en la medida en
+         que constituyen una ofensa a los principios jurídico-polí-
+         ticos que nos constituyen. En el arco opuesto de una ética
+         reducida solamente a la esfera personal, sería tiempo de
+         cultivar una ética de la responsabilidad que estuviera com-
+- 30 -
+
+
+
+
+         pletamente preocupada por defender el derecho a la auto-
+         determinación de todos y de la sociedad entera.
+
+               Para apaciguar a los espíritus, es de buen tono armar
+          comisiones que se caracterizan todas por el hecho de que se
+          limitan a esos sempiternos axiomas reductores y se remiten
+          a supuestos expertos, mientras organizan, desde no hace
+          mucho tiempo, consultas públicas online a fin de dar la
+          impresión de estar a la escucha de los ciudadanos. En gene-
+          ral, su única función no apunta sino a validar, bajo la apa-
+          riencia de exámenes escrupulosos, elecciones que ya fueron
+          adoptadas previamente. Es lo que pasa en Francia de modo
+          recurrente, donde vemos, después del informe “Francia ia”
+         elaborado por el gobierno Valls en 2016, otro informe enco-
+         mendado por el presidente Emmauel Macron ni bien entró
+         en funciones. El poder ejecutivo encargó al matemático y
+         diputado perteneciente a la mayoría presidencial Cédric
+         ­Villani que lo presidiera. Villani, incluso antes del inicio de
+          las audiencias, no hizo sino afirmar que convenía construir
+                                                                        INTRODUCCIÓN
+
+
+
+
+“un ecosistema para una investigación ágil y que se difun-
+diera […] un terreno general favorable para el desarrollo
+de la ia […] no poner obstáculos a la investigación”, ¡que
+representaría un “factor de democracia”!9
+      Estas palabras, después de la presentación de las con-
+clusiones, fueron ampliadas mediante otras igual de im-
+pactantes y de sello tecnoliberal: “Si no hacemos nada,
+nuestras empresas van a perder en competitividad y la
+economía se desplomará todavía más […] hace falta más
+investigación y que esta sea mucho más atractiva en ­Francia
+[…] La ia es inteligencia humana extra, son técnicas que
+se insertan en todos los campos y a veces con un valor
+agregado muy marcado.10 Este es un caso de referencia
+ejemplar de un investigador que renunció manifiestamente
+a expresar cualquier distancia crítica por haberse transfor-
+mado en el ventrílocuo de un gobierno. El alineamiento
+de los científicos y los ingenieros con la doxa técnico-­
+
+
+
+
+                                                                                  - 31 -
+económica representa un vicio de nuestra época en la me-
+dida en que las formas de la pluralidad en el campo de la
+investigación se ven cada vez más asfixiadas.
+      El colmo de lo grotesco corresponde a los grandes
+­grupos de la industria de lo digital, que, al ver que en
+ la opinión pública se manifiestan signos de inquietud,
+ ­buscan engalanarse con las mejores intenciones imple-
+  mentando “células de reflexión ética”, como el “Partner-
+  ship on Artificial Intelligence to Benefit People and So-
+  ciety”,11 por iniciativa de Google, Amazon, Facebook, ibm
+
+9. “Agir pour que l’intelligence artificielle soit utile à tous”, entrevista a
+Cédric Villani, Christophe Alix, Erwan Cario y Fabrice Drouzy, Libération,
+20 de octubre de 2017.
+10. “Il faut plus de recherche dans l’intelligence artificielle”, entrevista a
+Cédric Villani, Vincent Fagot y Morgane Tual, Le Monde, 28 de marzo de 2018.
+11. Ver “Intelligence artificielle: Google DeepMind se dote d’une unité de
+recherche sur l’éthique”, Le Monde, 4 de octubre de 2017. Por su lado,
+la Universidad de Standford, pilar de Silicon Valley erigió igualmente
+la “cuestión ética” como eje central de un informe titulado Artificial
+Intelligence and Life in 2030.
+ É
+ R
+ I
+ C       y ­Microsoft. Los criterios utilizados remiten prioritaria-
+ S       mente al supuesto respeto de la “vida privada” así como a
+ A       otros principios más laxos, mientras que, al mismo tiempo,
+ D       estas empresas representan a los agentes más activos del
+ I       amplio movimiento de automatización del mundo, como
+ N
+         dando la confirmación deslumbrante de que la obsesión
+         ajustada solo a la “libertad personal” está ineluctable-
+         mente llamada a sentar las bases de una conducción cada
+         vez más robotizada de los asuntos humanos.
+
+
+         AGONÍA DE LO POLÍTICO Y ADVENIMIENTO
+         DE UNA “DATA DRIVEN SOCIETY”
+
+         Lo que caracteriza a la inteligencia artificial, más allá
+         de todos los discursos confusos que la rodean y de las
+         cantinelas trilladas y eternas sobre el fin del trabajo, los
+- 32 -
+
+
+
+
+         supuestos progresos médicos o la optimización en el fun-
+         cionamiento de las empresas que muy pronto veríamos
+         consumada, es la extensión de una sistematización que
+         promete aplicarse a todos los segmentos de la vida hu-
+         mana. Cada enunciado automatizado de la verdad está
+         destinado a producir “acontecimientos”, a que se inicien
+         acciones principalmente con fines mercantiles o utilitaris-
+         tas, procediendo a una suerte de estimulación artificial e
+         ininterrumpida de lo real. Por ejemplo, la función de un
+         espejo conectado no apunta solamente a reflejar una pre-
+         sencia sino también a recolectar datos relativos al rostro
+         y al cuerpo a fin de sugerir, en contrapartida, productos o
+         servicios que se suponen apropiados en función del aná-
+         lisis evolutivo, y más o menos fiable, de los estados fisio-
+         lógicos, incluso psicológicos. El devenir de lo digital, que
+         pronto será predominante, se erige como una instancia
+         de orientación de los comportamientos destinada en todo
+         momento a ofrecer marcos de existencia individual y co-
+         lectivos que se suponen los mejor administrados, y esto
+                                                      INTRODUCCIÓN
+
+
+
+
+ocurre de modo fluido, casi imperceptible, hasta tomar el
+aspecto de un nuevo orden de cosas.
+     Esta es la razón por la cual el tecnoliberalismo hace
+de las tecnologías de la aletheia su principal caballito de
+batalla, viendo en ellas la consumación perfecta de sus
+ambiciones hegemónicas gracias a la emergencia de una
+“mano invisible automatizada”, de un mundo regido bajo
+el régimen de la retroalimentación, del feedback, una data
+driven society en donde cada cosa que ocurre en lo real se
+ve sometida a una serie de operaciones con vistas a asumir
+la inflexión justa según criterios definidos con precisión.
+Es un proyecto tensado continuamente hacia la anulación
+de cualquier inercia y la ganancia de lo que, en su origen,
+procede de la fantasía de los matemáticos, de los ingenie-
+ros, de los investigadores –los iniciadores de la ciberné-
+tica–, que aspiraban a luchar contra el mal supremo, la
+entropía. Hoy se haría realidad a más de medio siglo de
+
+
+
+
+                                                                - 33 -
+distancia, pero ya no se limitaría a corregir solamente las
+formas del desorden sino que también extraería un benefi-
+cio de la interpretación robotizada de toda situación. Una
+fantasía tecnocientífica que data de la posguerra se ha
+convertido hoy en un axioma económico y antropológico
+que pretende construir una gobernanza indefinidamente
+dinámica y sin fallas de los asuntos humanos.
+
+     Y en este aspecto, la inteligencia artificial conver-
+ge para organizar el fin de lo político, si entendemos
+lo político como la expresión de la voluntad general de
+suspender las decisiones, dentro de la contradicción y la
+deliberación, para responder lo mejor posible al interés
+común. ¿Cómo no captar que también se desprende de un
+fenómeno psicológico que tiene origen en nuestra angus-
+tia fundamental producto de la incertidumbre inherente a
+la vida, que nos obliga indefinidamente a ­determinarnos,
+incluyendo la duda y la posibilidad de cometer, en
+­
+cualquier momento, un error? La inteligencia artificial
+­
+ É
+ R
+ I
+ C       llegaría entonces para ahuyentar nuestra vulnerabilidad,
+ S       liberarnos de nuestros afectos en beneficio de una organi-
+ A       zación ideal de las cosas, haciendo desaparecer de algún
+ D       modo la resistencia de lo real gracias a una capacidad de
+ I       influir sobre la totalidad de los fenómenos que apunta
+ N
+         hacia un horizonte que contiene una forma consumada y
+         perpetua de la perfección.
+             Más que una “singularidad tecnológica”, a saber, el
+         advenimiento de una ruptura antropológica debida a la
+         emergencia cercana de una “superinteligencia” omnipo-
+         tente” y a la fusión entre cerebro y procesadores, según
+         la grotesca y sensacionalista tesis de Ray Kurzweil,12 lo
+         que está dado a realizarse es más bien una “singularidad
+         ontológica” que redefine de cabo a rabo la figura huma-
+         na, su estatuto, sus poderes, sus derechos, que hasta ese
+         momento, se suponía, garantizarían a todos la posibili-
+         dad de su libertad y de su plenitud. Es la razón por la
+- 34 -
+
+
+
+
+         cual la naturaleza de la inteligencia artificial, sus cam-
+         pos de aplicación, los intereses involucrados, la amplitud
+         confesa, tanto como probable, de sus efectos, represen-
+         tan una de las cuestiones civilizatorias y filosóficas más
+         importantes de nuestro tiempo, sino tal vez la cuestión
+         principal. Al mismo tiempo, no ha sido suficientemente
+         objeto de exploraciones teóricas a la altura de los dile-
+         mas planteados.
+
+
+         EL GOLPE DE ESTADO RETÓRICO
+
+         Para hacer una exploración teórica a la altura de los dile-
+         mas de la época, conviene cuestionar primero la noción
+         de “inteligencia artificial” desde su raíz, cuestionar inclu-
+         so cómo la hemos llamado, en la medida en que siempre
+
+
+         12. Ver Ray Kurzweil, La singularidad está cerca. Cuando los humanos
+         trascendamos la biología, Buenos Aires, Lola Books, 2011.
+                                                                       INTRODUCCIÓN
+
+
+
+
+los términos que usamos contribuyen a forjar nuestras
+representaciones. La expresión fue utilizada por primera
+vez en 1955 por el matemático John McCarthy dentro de
+la perspectiva de trabajo que tenía el Summer Camp de
+­Dartmouth, situado en Hanover, en New Hampshire (Esta-
+ dos Unidos), momento en que se inauguró el movimien-
+ to de la cibernética. La agenda del momento pretendía
+ definir los términos de una nueva disciplina destinada a
+ simular y reproducir artificialmente algunos de los pro-
+ cesos del cerebro humano. El público estaba formado por
+ científicos y estudiosos de la informática, pero ninguno
+ de ellos provenía de las neurociencias. No detentaban un
+ conocimiento completo de la estructura cerebral, remi-
+ tiéndose para sus hipótesis a esquemas muy sumarios y
+ burdos. En realidad, el principio de una inteligencia com-
+ putacional modelada sobre nuestra inteligencia humana
+ es erróneo, porque una y otra no mantienen casi ninguna
+
+
+
+
+                                                                                 - 35 -
+ relación de similitud.
+     Esto es así por dos razones. La primera es que estas
+ arquitecturas están desprovistas de cuerpos, y que repre-
+ sentan solo máquinas de cálculos cuya función se limita
+ al tratamiento de flujos informacionales abstractos. Y en
+ el caso de que esas arquitecturas se encontrasen vincu-
+ ladas con otras instancias mediante sensores, no harían
+ sino reducir ciertos elementos de lo real a códigos bina-
+ rios excluyendo una infinidad de dimensiones que nuestra
+ sensibilidad sí puede capturar y que escapan al principio
+ de una modelización matemática. Estamos frente a una
+ concepción trunca, restringida y sesgada de lo que supone
+ el proceso de la inteligencia, que es indisociable de su
+ tensión con una aprehensión multisensorial y no sistema-
+ tizable del medio ambiente: “Para decir las cosas fácilmen-
+ te, el cerebro y los cuerpos están empapados en lo mismo
+ y producen el espíritu de modo conjunto”.13
+
+13. Antonio Damasio, El extraño orden de las cosas, Barcelona, Planeta, 2018.
+ É
+ R
+ I
+ C            La segunda razón es que no existe inteligencia que pue-
+ S       da vivir aislada, encerrada en sus propias lógicas, como ocu-
+ A       rre cuando seguimos el principio de progresión que consiste
+ D       en ejercitarse solo “contra uno mismo”, como si se estuviera
+ I       en una burbuja, conforme a la lógica llamada “por refuer-
+ N
+         zo” que se implementa en el programa AlphaGoZero.14 Este
+         programa puso en juego millones de partidas de go “contra
+         sí mismo”, pero la inteligencia es indisociable de las rela-
+         ciones abiertas e indeterminadas con los seres y las cosas,
+         de un contexto epigenético, o sea de un medio compuesto
+         en el seno del cual evoluciona y se singulariza. No se ca-
+         racteriza solamente por la facultad de adaptabilidad, como
+         se repite con frecuencia según un estereotipo darwiniano
+         simplista, sino más bien por la capacidad de modificarse
+         gracias a la integración madura de nuevos conocimientos,
+         por volver a cuestionarse luego de acontecimientos inespe-
+         rados o palabras contradictorias formuladas por otro, hasta
+- 36 -
+
+
+
+
+         llegar, por la escucha atenta del canto (que nunca termina)
+         de todas las diferencias, a desprenderse de algunos de sus
+         esquemas que, tal vez equivocadamente, lo marcan.
+
+             Estas son otras tantas disposiciones con las cuales no
+         están y no estarán nunca afectados los sistemas en la me-
+         dida de que se derivan únicamente de dimensiones funcio-
+         nalistas, ya que están estructurados únicamente con vis-
+         tas a responder a fines prescriptos, a la inversa de aquello
+         que nos constituye, y que nos proyecta en cada momento
+         hacia una profusión de aspiraciones de toda índole. Hay
+         una irreductibilidad de la vida como hay una irreductibili-
+         dad de la inteligencia humana porque ambas son refracta-
+         rias a toda definición circunscrita y a toda categorización
+         cristalizada, así como hay una irreductibilidad de nuestros
+         afectos, que se resisten a todo intento de esquematización
+
+
+         14. Programa desarrollado por la empresa DeepMind, comprada por Google
+         en 2014.
+                                                                 INTRODUCCIÓN
+
+
+
+
+total. De ningún modo nos enfrentamos con una répli-
+ca de nuestra inteligencia, ni siquiera parcial, sino que
+estamos ante un abuso del lenguaje que nos hace creer
+que esta inteligencia estaría naturalmente habilitada para
+sustituir a la nuestra con la finalidad de asegurar una
+mejor conducción de nuestros asuntos. En verdad, se trata
+más precisamente de un modo de racionalidad basado en
+esquemas restrictivos y que apuntan a satisfacer todo tipo
+de intereses.
+
+
+PARA UN CONFLICTO DE RACIONALIDADES
+
+Por todas estas razones es imperativo no otorgar a ­estas ló-
+gicas el monopolio de la racionalidad, y hacer valer, c­ ontra
+un modo de racionalidad normativo que promete una su-
+puesta perfección en todas las cosas, modos de racionalidad
+
+
+
+
+                                                                           - 37 -
+basados en la aceptación de la pluralidad de los seres y la
+incertidumbre fundamental de la vida. T­ endremos que vivir
+un conflicto de racionalidades en la medida en que cada
+una de ellas compromete valores y determina modalidades
+de existencia opuestas en todos los puntos. Esta debe ser
+una de las luchas políticas principales de nuestro tiempo.
+¿Pero cómo puede ser que, en este momento decisivo de la
+historia de la humanidad, dicho giro de alcance civilizato-
+rio no despierte una movilización que esté a la altura de los
+dilemas en juego? ¿Cómo llegamos a esa forma de narcosis
+y renuncia colectivos que contribuyen a dejar el campo
+libre a quienes obran encarnizadamente para instaurar una
+conducción automatizada de los asuntos humanos? “El pe-
+ligro, para la especie, no es tanto ir donde está yendo sino
+ir con los ojos cerrados y las piernas incontrolables, con el
+cerebro en estado de ebriedad”.15
+
+
+15. Georges Duhamel, L’Humanisme et l’Automate, París, Hartmann, 1933,
+p. 27.
+ É
+ R
+ I
+ C            Contra esta enunciación robotizada de la verdad,
+ S       ­ ebemos apoderarnos de nuestra facultad de hacer valer
+         d
+ A       otro espíritu de la verdad, manifestando, en términos de
+ D       ­Michel Foucault, nuestro “coraje de la verdad”.16 O sea,
+ I        el hecho de reivindicar que, a diferencia de la exactitud,
+ N
+          la verdad no se presenta bajo ningún referente estable;
+          apela a un esfuerzo de aprehensión que nunca se consuma
+          y sobre el cual debemos regularmente ponernos de acuer-
+          do, incluso de modo provisorio, dentro de la diversidad
+          de las subjetividades existentes a fin de esforzarnos por
+          actuar, individual y colectivamente, del modo más justo
+          y al m
+               ­ argen de toda imposición unilateral que amordace
+          nuestro derecho de palabra. Una teoría crítica de la inte-
+          ligencia artificial –que nos falta de modo brutal– requiere
+          hacerse filósofo no solamente de la técnica sino de un
+          compuesto heterogéneo que no dejó de consolidarse desde
+          inicios del año 2000. Es el compuesto hecho de la alianza
+- 38 -
+
+
+
+
+          implacable entre los poderes industriales y económicos,
+          los responsables políticos, una amplia parte del mundo
+          universitario y científico y de los grupos de influencia
+          de todo tipo que, bajo la apariencia de inscribirse en “el
+          sentido de la historia” y de representar fuerzas “progresis-
+          tas”, trabajan para la erradicación veloz de los principios
+          que nos sustentan y para la propagación de un antihuma-
+          nismo radical. Por eso el título de este libro procede, como
+          un eco directo, de La edad de la técnica, de Jacques Ellul,17
+          quien percibió de inmediato, desde 1954, y al margen de
+          la verborrea metafísico-marxista omnipresente en aque-
+          lla época, cuál era la envergadura del conjunto técnico-­
+          industrial de la posguerra que se esforzaba sin descanso
+
+         16. Ver Michel Foucault, Discurso y Verdad. El coraje de decirlo todo,
+         Buenos Aires, Siglo XXI, 2017.
+         17. Jacques Ellul, La edad de la técnica, Barcelona, Octaedro, 2003. El
+         título original del libro de Ellul es La Technique ou l’Enjeu du siècle, (París,
+         Armand Colin, 1954) con el que Sadin dialoga claramente en el título de
+         este libro: L’intelligence artificielle ou l’enjeu du siècle. [N. de la T.]
+                                                                 INTRODUCCIÓN
+
+
+
+
+por intensificar las lógicas productivistas, por construir
+modos de organización siempre más optimizados, por mo-
+vilizar presupuestos masivos en favor de los campos de lo
+militar y de la energía atómica, contribuyendo a imponer
+elecciones estructurantes a la sociedad sin apelar al con-
+sentimiento informado de sus miembros.
+
+    El mérito de Ellul consiste particularmente en haber
+sabido identificar un cierto tipo de desarrollo técnico que
+se convirtió entonces en mayoritario y que no se limitaba
+solamente a fabricar mercancías, o a favorecer la eclosión
+rápida de la “sociedad de consumo”, sino que contribuía,
+por su naturaleza, a instaurar modos de existencia cada
+vez más sometidos a esquemas racionales que favorecían
+el apogeo de estructuras asimétricas de poder. No es por
+casualidad que esta obra lúcida y argumentada, delibera-
+damente a contracorriente de la época, no encontró, en
+
+
+
+
+                                                                           - 39 -
+el inicio de la frenética secuencia de los “Treinta glorio-
+sos”, todo el eco que merecía, siendo incluso denigrada
+por ciertos medios a los que esa obra, precisamente, cues-
+tionaba. Como detectaba Günther Anders exactamente en
+el mismo período: “Nada desacredita hoy más rápidamente
+a un hombre que ser sospechoso de criticar a las máqui-
+nas […] la crítica de la técnica se ha convertido hoy en
+un asunto de coraje cívico”.18 En nuestros días, podemos
+constatar, con textos a la mano, que gran cantidad de
+sus análisis se confirmaron; además, su obra encuentra un
+amplio público lector y finalmente se ve reconocida en su
+justo valor.
+
+    Pero lo que difiere entre el momento en que escribió
+Jacques Ellul y el nuestro es que la técnica, cuando em-
+plazaba a los seres humanos bajo su poder de seducción
+
+
+18. Günther Anders, La obsolescencia del hombre, Valencia, Pre-Textos,
+2011.
+ É
+ R
+ I
+ C       o coerción, seguía siendo sin embargo una fuerza exte-
+ S       rior, que in fine no se ejercía sino sobre ciertas secuencias
+ A       de la vida cotidiana. Desde ese entonces, se franquearon
+ D       tres umbrales cuyos primeros crujidos él había presentido.
+ I       ­Primero, se llegó a un alcance totalizador de las tecno-
+ N
+          logías digitales, destinadas a inmiscuirse, a largo plazo,
+          en todos los segmentos de la vida. Luego se alcanzó un
+          poder de inflexión de los comportamientos, ya que estas
+          tecnologías de ahora en más parecen estar destinadas, al
+          menos una parte, a orientar la acción humana. Finalmen-
+          te, la técnica como campo relativamente autónomo hoy
+          ha ­desaparecido. No existe sino un mundo tecnocientífico
+          convertido en feudos por las instancias económicas que
+          dictan las trayectorias a adoptar. Solo queda lo tecnoe-
+          conómico. Históricamente, los científicos, los ingenieros,
+          gozaban de formas más o menos laxas de independencia.
+          Desde comienzos del siglo XX, la industria poco a poco los
+- 40 -
+
+
+
+
+          fue integrando en su seno, sometiendo sus investigacio-
+          nes a objetivos definidos por los departamentos de mar-
+          keting o las oficinas de tendencias. Quedó lejos el tiempo
+          en el cual Alexandre Groethendieck, matemático laureado
+          con la medalla Fields, cuando supo, con indignación, que
+          el Instituto de Altos Estudios Científicos (ihes), en el seno
+         del cual trabajaba y a cuyo renombre internacional con-
+         tribuía, se beneficiaba de fondos provenientes de la otan a
+         través del ministerio francés de la Defensa Nacional, se ­esforzó
+         primero para que se anulara esta fuente de financiamien-
+         to, y cuando su iniciativa se encontró con el rechazo de
+         parte de sus superiores, directamente renunció a todas sus
+         funciones dentro de la institución. En 1970 G   ­ roethendieck
+         había fundado, junto con otros, el grupo Sobrevivir y vi-
+         vir, que publicaba particularmente una r­ evista19 que daba
+
+
+         19. Ver, para una mirada amplia crítica acompañada de una antología, la
+         notable obra coordinada por Céline Pessis, Survivre et Vivre. Critique de la
+         science, naissance de l’écologie, París, L’échappée, 2014.
+                                                                INTRODUCCIÓN
+
+
+
+
+ testimonio de una conciencia admirable relativa a la res-
+ ponsabilidad de los científicos e ingenieros, y en la cual
+ haría bien en inspirarse esta corporación que, en su gran
+ mayoría, ya ha vendido su alma.20
+      Yann Le Cun, por ejemplo, especialista en deep ­learning,
+ fue contratado por la firma Facebook para dirigir la uni-
+ dad francesa de investigación de la empresa, y no deja,
+ cada vez que puede, de cantar loas a los inestimables be-
+ neficios prometidos por la inteligencia artificial. ¿Cómo
+ es posible que esta persona pueda manifestar alguna dis-
+ tancia crítica? Su discurso está amordazado, consciente o
+ inconscientemente, desde el momento en que es prisio-
+ nero de intereses que lo sobrevuelan y que regimentan
+ su práctica. El mundo de la investigación, que en otros
+ tiempos se constituía por actores movilizados por diversas
+ curiosidades, intereses, o tropismos de todo orden, y que
+ favorecía el aporte libre de todos, lo cual era condición
+
+
+
+
+                                                                          - 41 -
+ necesaria para su vitalidad, hoy se ha convertido en un
+ campo en ruinas de la inventiva, al estar compuesto ahora
+ de individuos que se someten tranquilamente a pliegos de
+ licitaciones predeterminados. Por esta razón el concep-
+ to de pharmakon, según el cual la técnica sería a la vez
+ un remedio y un veneno, es erróneo y estéril. Quizás era
+ el caso cuando los artefactos resultaban de intenciones
+ plurales y contenían formas de ambivalencia: pero aho-
+ ra estas producciones responden, en su casi totalidad, a
+ funcionalidades precisamente circunscritas y a finalida-
+ des estrictas y utilitaristas que no ofrecen en sus usos
+­alternativa alguna.
+
+    El control creciente que el complejo tecnoeconómi-
+co contemporáneo opera sobre la sociedad me obliga a
+
+
+20. Ver, para un saludable y raro contraejemplo, el Manifeste pour
+une formation citoyenne des ingénieur-e-s, redactado por el colectivo
+“Ingénieurs sans frontières”, disponible en isf-france.org.
+ É
+ R
+ I
+ C       r­ etomar desde nuevas bases el trabajo analítico y crítico que
+ S        había iniciado Jacques Ellul. Esta tarea, que se relaciona con
+ A        la filosofía política, exige identificar los linajes genealógicos,
+ D        la pluralidad de intereses en juego, los efectos de todo orden
+ I        generados sobre nuestras existencias, el sustrato ideológico
+ N
+          que pretende asentar una visión higienista de las cosas, así
+          como la dimensión psicológica, incluso cuasi neurótica, que
+          se expresa en la aspiración a erigir una “inteligencia artifi-
+          cial”. Sin embargo, ante la rápida consolidación de las tra-
+          yectorias en curso, la elaboración solamente de corpus críti-
+          cos se revelaría como bastante inoperante si no trabajáramos
+          al mismo tiempo tejiendo lazos fructíferos y posiblemente
+          recíprocos entre teoría y praxis.
+               Mientras que los evangelistas de la automatización
+          del mundo no dejan de emprender distintas acciones y
+          de verse apoyados y celebrados en todo lugar, nos vamos
+          deslizando hacia formas de la apatía; hemos renunciado a
+- 42 -
+
+
+
+
+          utilizar nuestro poder de actuar. Un movimiento contrario,
+          que haga valer otros principios, ya no puede limitarse a
+          la mera crítica, por más sustentada y argumentada que
+          sea esta, sino que exige la expresión en acto de nues-
+          tras divergencias y de nuestra oposición. Dadas las po-
+          tencias hegemónicas involucradas, conviene concebir es-
+          trategias que llaman, antes que nada, a dar testimonio de
+          la realidad del terreno, y a volver a dar fuerza a “contra-­
+          experticias” que desmientan las marejadas de tecnodiscur-
+          sos ­fabricados en todos sus detalles y propagados desde
+          todos los focos posibles. Solamente los relatos múltiples
+          acumulados de las experiencias vividas serán capaces de
+          exponer los hechos en su cruda verdad, y para alentar
+          formas de movilización en todas las escalas sociales. Pro-
+          bablemente nos hayamos también desprendido del reflejo,
+          que se revela muy saludable en ciertas circunstancias, de
+          manifestar nuestro rechazo, en este caso respecto de cier-
+          tos dispositivos, cuando estimamos que ultrajan nuestra
+          ­integridad y dignidad. Porque esta posición, que surge
+                                                                  INTRODUCCIÓN
+
+
+
+
+de una r­esolución individual, o más todavía cuando se
+expresa de modo coordinado, reviste una eficacia inme-
+diata, aquella producida por la formulación desviante de
+un rechazo sin apelación posible: “Si Pier Paolo tenía algo
+que legarnos, sería una miríada de ‘no’ mordaces, tiernos
+o mesiánicos, el gusto amargo de la lucha contra todo lo
+que nos hace conformarnos con aquello a lo cual nos busca
+reducir el ‘nuevo Poder’”.21
+
+     Pero paralelamente a la manifestación de nuestro
+desacuerdo, deberíamos también obrar para que emerjan
+contra-imaginarios, otros imaginarios, que se satisfagan
+con la trágica y feliz contingencia del devenir, en opo-
+sición a la voluntad de disponer de un dominio inte-
+gral sobre el curso de las cosas. Los imaginarios actuales
+condicionan la posibilidad de erigir modos de vida que
+se ­resignen, sin resentimiento, a la imperfección funda-
+
+
+
+
+                                                                            - 43 -
+mental de la existencia y que celebren la diversidad de
+los seres, la autonomía de la voluntad, nuestra aprehen-
+sión multisensorial de lo real, a la vez que busquen cons-
+truir modos de ser en común que no hieran a nadie. Esta
+es la puesta en práctica del accionar humano a la que nos
+convocaba Hannah Arendt, ya que es la única capaz de
+convertirnos plenamente en autores de nuestros destinos
+porque está basada en el respeto de ciertos principios
+que se juzgan intangibles.
+     Particularmente, se trata de la defensa de nuestra fa-
+cultad de juicio. Arendt la consideraba como la cuestión
+política principal en la medida en que determina la posibi-
+lidad de acciones individuales, y colectivas que se niegan
+a toda normatividad infundada y a juegos de poder ilegí-
+timos: “De la facultad de juicio se podría decir, con jus-
+teza, que es la más política de las aptitudes ­mentales del
+
+
+21. Philippe Gavi y Robert Maggiori, prefacio a Écrits corsaires (1976),
+París, Flammarion, “Champs”, 2009, p. 16.
+ É
+ R
+ I
+ C       hombre […] Juzgar consuma el pensamiento, lo hace ma-
+ S       nifiesto en el mundo de las apariencias […] La manifesta-
+ A       ción del viento del pensamiento no es el conocimiento, es
+ D       la aptitud para decir lo que es justo y lo que es injusto, lo
+ I       que es hermoso y lo que es feo, y esto puede impedir ca-
+ N
+         tástrofes, al menos para mí, en los momentos cruciales”.22
+         Y en este momento crucial es decisivo decir lo que es justo
+         e injusto, lo que es hermoso y feo, y podríamos agregar,
+         lo que es digno e indigno, e incluso lo que libera las po-
+         tencialidades humanas o lo que las regimenta dentro de
+         marcos limitados y anquilosados. Este libro busca iluminar
+         los términos de las alternativas de alcance civilizatorio
+         en todo punto irreconciliables, y espera brindarse como
+         una herramienta que permita, desde la suave sensación
+         del tacto de las páginas impresas y al abrigo del ruido del
+         mundo, hacer que nos podamos determinar mejor, en plena
+         conciencia y responsabilidad.
+- 44 -
+
+
+
+
+         22. Hannah Arendt, Responsabilidad y juicio, Barcelona, Paidós, 2007.
+
